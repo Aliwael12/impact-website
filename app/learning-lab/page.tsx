@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { BookOpen, FileText, Lightbulb, Users, Activity, Gamepad2, Download, ArrowRight, Mail } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Section, { SectionHead } from "@/components/Section";

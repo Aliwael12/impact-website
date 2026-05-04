@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Brain, Users, Sparkles, Activity, BarChart3, Database } from "lucide-react";
+import { Sparkles, Activity, BarChart3, Database } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Section, { SectionHead } from "@/components/Section";
 import { OutcomeCard } from "@/components/Blocks";

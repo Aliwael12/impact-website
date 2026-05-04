@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Image from "next/image";
-import { Award, Building2, Globe2, ArrowRight } from "lucide-react";
+import { Award, Building2, Globe2 } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Section, { SectionHead } from "@/components/Section";
 import CTA from "@/components/CTA";
-import { Reveal, Stagger, Item } from "@/components/Motion";
+import { Stagger, Item } from "@/components/Motion";
 
 export const metadata: Metadata = {
   title: "Success Stories — Measurable Impact | Impact L&D",

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Brain, MessageCircle, Compass, BookCheck, Layers3, Clock, Users } from "lucide-react";
+import { Brain, MessageCircle, Compass, Layers3, Clock, Users } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import Section, { SectionHead } from "@/components/Section";
 import { IconGrid, OutcomeCard, Steps } from "@/components/Blocks";

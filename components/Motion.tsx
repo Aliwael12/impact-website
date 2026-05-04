@@ -9,19 +9,14 @@ export function Reveal({
   delay = 0,
   y = 22,
   className,
-  as: Comp = "div",
 }: {
   children: ReactNode;
   delay?: number;
   y?: number;
   className?: string;
-  as?: keyof JSX.IntrinsicElements;
 }) {
-  const MotionComp = (motion as any).create
-    ? (motion as any).create(Comp as any)
-    : (motion as any)(Comp as any);
   return (
-    <MotionComp
+    <motion.div
       initial={{ opacity: 0, y }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-60px" }}
@@ -29,7 +24,7 @@ export function Reveal({
       className={className}
     >
       {children}
-    </MotionComp>
+    </motion.div>
   );
 }
 
@@ -86,13 +81,11 @@ export function Counter({
   to,
   suffix = "",
   prefix = "",
-  duration = 1.6,
   className,
 }: {
   to: number;
   suffix?: string;
   prefix?: string;
-  duration?: number;
   className?: string;
 }) {
   const ref = useRef<HTMLSpanElement>(null);
