@@ -1,0 +1,354 @@
+
+> impact-tmp@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3001
+
+ ✓ Starting...
+ ✓ Ready in 4.4s
+ ○ Compiling / ...
+ ⚠ ./components/Footer.tsx
+Attempted import error: 'Linkedin' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Linkedin').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Twitter' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Twitter').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Instagram' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Instagram').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Youtube' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Youtube').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+motion() is deprecated. Use motion.create() instead.
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ GET / 500 in 9368ms
+ ⚠ ./components/Footer.tsx
+Attempted import error: 'Linkedin' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Linkedin').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Twitter' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Twitter').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Instagram' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Instagram').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Youtube' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Youtube').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+ GET / 500 in 3057ms
+ ⚠ ./components/Footer.tsx
+Attempted import error: 'Linkedin' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Linkedin').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Twitter' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Twitter').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Instagram' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Instagram').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Youtube' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Youtube').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+ ⚠ ./components/Footer.tsx
+Attempted import error: 'Linkedin' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Linkedin').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Twitter' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Twitter').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Instagram' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Instagram').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+
+./components/Footer.tsx
+Attempted import error: 'Youtube' is not exported from '__barrel_optimize__?names=ArrowUpRight,Instagram,Linkedin,Mail,MapPin,Twitter,Youtube!=!lucide-react' (imported as 'Youtube').
+
+Import trace for requested module:
+./components/Footer.tsx
+./app/layout.tsx
+ GET /favicon.ico 200 in 1513ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+motion() is deprecated. Use motion.create() instead.
+ ⨯ Error: Unsupported Server Component type: undefined
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2557511809"
+ GET / 500 in 460ms
+ GET /favicon.ico 200 in 103ms
+ ✓ Compiled /favicon.ico in 3.9s (1494 modules)
+motion() is deprecated. Use motion.create() instead.
+ GET / 200 in 205ms
+ ✓ Compiled in 3.5s (1494 modules)
+ GET / 200 in 361ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 6.6s (1451 modules)
+ GET / 200 in 422ms
+ ○ Compiling /about ...
+ ✓ Compiled /about in 1969ms (1468 modules)
+ ✓ Compiled in 2.9s (712 modules)
+ ✓ Compiled in 1714ms (712 modules)
+ ✓ Compiled in 4.2s (1482 modules)
+ GET /solutions 404 in 686ms
+ GET / 200 in 170ms
+ ✓ Compiled in 8.5s (1468 modules)
+ GET /solutions/experiential-learning 404 in 451ms
+ ✓ Compiled in 7.4s (1482 modules)
+ ✓ Compiled in 2.1s (1482 modules)
+ ✓ Compiled in 2.8s (1479 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 570ms (1468 modules)
+ GET / 200 in 225ms
+ ✓ Compiled in 2.9s (1482 modules)
+ ✓ Compiled in 4.4s (1482 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.7s (1694 modules)
+ GET / 200 in 496ms
+ ✓ Compiled in 2s (1708 modules)
+ ✓ Compiled in 2.1s (1708 modules)
+ ✓ Compiled in 2.2s (1689 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 761ms (1692 modules)
+ GET /solutions/competency-based 404 in 644ms
+ ○ Compiling /solutions/strategy ...
+ ✓ Compiled /solutions/learning-development in 6.1s (1713 modules)
+ GET /assessments-coaching 404 in 160ms
+ GET /impact-go 404 in 72ms
+ ✓ Compiled in 3.2s (1727 modules)
+ ✓ Compiled in 3.5s (1727 modules)
+ ✓ Compiled in 2.4s (1706 modules)
+ ✓ Compiled in 3.9s (1706 modules)
+ ✓ Compiled in 3.1s (1706 modules)
+ ✓ Compiled in 2.7s (1706 modules)
+ ✓ Compiled in 2.8s (1706 modules)
+ ○ Compiling /solutions/learning-development ...
+ ✓ Compiled /solutions/learning-development in 903ms (814 modules)
+ ✓ Compiled in 3.1s (1712 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1352ms (1701 modules)
+ ✓ Compiled in 4.5s (1715 modules)
+ ✓ Compiled in 3.4s (1712 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 878ms (1701 modules)
+ GET / 200 in 448ms
+ ✓ Compiled in 2.8s (1715 modules)
+ GET / 200 in 388ms
+ GET /about 200 in 161ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 2s (1718 modules)
+ GET /contact 200 in 2472ms
+ ○ Compiling /solutions ...
+ ✓ Compiled /solutions in 1102ms (1728 modules)
+ GET /solutions 200 in 1501ms
+ GET /solutions/learning-development 200 in 111ms
+ ○ Compiling /solutions/competency-based ...
+ ✓ Compiled /solutions/competency-based in 1044ms (1733 modules)
+ GET /solutions/competency-based 200 in 1237ms
+ ○ Compiling /solutions/participant-level ...
+ ✓ Compiled /solutions/participant-level in 1283ms (1740 modules)
+ GET /solutions/participant-level 200 in 1552ms
+ ○ Compiling /solutions/duration-based ...
+ ✓ Compiled /solutions/duration-based in 1016ms (1743 modules)
+ GET /solutions/duration-based 200 in 1191ms
+ ○ Compiling /solutions/experiential-learning ...
+ ✓ Compiled /solutions/experiential-learning in 1011ms (1750 modules)
+ GET /solutions/experiential-learning 200 in 1234ms
+ ✓ Compiled /solutions/organizational-development in 491ms (863 modules)
+ GET /solutions/organizational-development 200 in 682ms
+ ✓ Compiled /solutions/strategy in 486ms (868 modules)
+ GET /solutions/strategy 200 in 681ms
+ ○ Compiling /solutions/talent-development ...
+ ✓ Compiled /solutions/talent-development in 1386ms (1764 modules)
+ GET /solutions/talent-development 200 in 1586ms
+ ○ Compiling /solutions/competency-building ...
+ ✓ Compiled /solutions/competency-building in 1064ms (1768 modules)
+ GET /solutions/competency-building 200 in 1261ms
+ ○ Compiling /solutions/organizational-policies ...
+ ✓ Compiled /solutions/organizational-policies in 998ms (1772 modules)
+ GET /solutions/organizational-policies 200 in 1155ms
+ ○ Compiling /solutions/corporate-governance ...
+ ✓ Compiled /solutions/corporate-governance in 966ms (1777 modules)
+ GET /solutions/corporate-governance 200 in 1143ms
+ ○ Compiling /solutions/cultural-transformation ...
+ ✓ Compiled /solutions/cultural-transformation in 812ms (1782 modules)
+ GET /solutions/cultural-transformation 200 in 945ms
+ ○ Compiling /assessments-coaching ...
+ ✓ Compiled /assessments-coaching in 770ms (1786 modules)
+ GET /assessments-coaching 200 in 906ms
+ ○ Compiling /affiliates ...
+ ✓ Compiled /affiliates in 746ms (1792 modules)
+ GET /affiliates 200 in 866ms
+ ○ Compiling /impact-go ...
+ ✓ Compiled /impact-go in 847ms (1795 modules)
+ GET /impact-go 200 in 980ms
+ ○ Compiling /impulse ...
+ ✓ Compiled /impulse in 886ms (1800 modules)
+ GET /impulse 200 in 1013ms
+ ○ Compiling /flagship-programs ...
+ ✓ Compiled /flagship-programs in 926ms (1805 modules)
+ GET /flagship-programs 200 in 1062ms
+ ○ Compiling /success-stories ...
+ ✓ Compiled /success-stories in 1094ms (1821 modules)
+ GET /success-stories 200 in 1324ms
+ ○ Compiling /learning-lab ...
+ ✓ Compiled /learning-lab in 947ms (1826 modules)
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2475111593"
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "2475111593"
+ GET /learning-lab 500 in 1164ms
+ ○ Compiling /public-calendar ...
+ ✓ Compiled /public-calendar in 1386ms (1829 modules)
+ GET /public-calendar 200 in 1826ms
+ ✓ Compiled in 4.2s (1842 modules)
+ ✓ Compiled in 2.2s (909 modules)
+ ✓ Compiled in 990ms (909 modules)
+ ✓ Compiled in 12.4s (1775 modules)
+ GET /learning-lab 200 in 554ms
